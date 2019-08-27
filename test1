@@ -1,9 +1,0 @@
-FIRST LINE
-SECOND LINE
-THIRD LINE COMMET BY DEV
-<<<<<<< HEAD
-FOURTH LINE BY MASTER 
-||||||| merged common ancestors
-=======
-COMMIT BY DEV
->>>>>>> dev
